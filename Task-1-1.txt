@@ -1,0 +1,7 @@
+You have N blocks to build towers. Each tower requires K blocks.
+Calculate the maximum number of towers you can build and how many blocks it will take. 
+The first input line contains N, and the second contains K.
+
+У тебя есть N блоков для строительства башен. Каждая башня требует K блоков.
+Вычисли, какое максимальное количество башен можно построить, и сколько на
+это уйдёт блоков. В первой строке ввода находится N, а во второй находится K. 
