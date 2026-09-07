@@ -8,6 +8,7 @@ int _tmain(int argc, _TCHAR* argv[])
     unsigned int k; // number of blocks for 1 tower
     unsigned int t; // Maximum number of towers
     unsigned int b; // Number of blocks is used
+    // Input data
     std::cout << "Enter the number of blocks: ";
     std::cin >> n;
     std::cout << "Enter the number of blocks for 1 tower: ";
